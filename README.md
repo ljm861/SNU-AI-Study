@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to SNU AI Study Group (SNU AI 스터디 모임)
 
 You can use the [editor on GitHub](https://github.com/ljm861/SNU-AI-Study/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
