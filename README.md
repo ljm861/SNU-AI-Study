@@ -1,12 +1,11 @@
 ## SNU AI Study Group (SNU AI 스터디 모임)
 
 매주 '딥러닝의 모든 것'에 대해 함께 공부하는 스터디 모임입니다. 
-<br >
-<br />
+
 
 ---
-<br >
-<br />
+
+
 ### 1. 스터디 안내
 
 * 일시 : 매주 화요일 7:30 PM
@@ -15,7 +14,9 @@
 
 * 내용 : 연구 내용 발표 또는 연구와 관련된 논문 리뷰
 
+
 ---
+
 
 ### 2. 스터디 신입 멤버 모집
 
@@ -31,13 +32,17 @@
 
 ##### [신청 링크](https://goo.gl/forms/P0KuDgMs6ZVPPTNA2)
 
+
 ---
+
 
 ### 3. 스터디 자료 및 사진
 
 Link : [https://goo.gl/ihvrGV](https://goo.gl/ihvrGV) (1 - 3기 발표 자료와 사진 링크입니다.)
 
+
 ---
+
 
 ### 4. FAQ
 
@@ -47,4 +52,3 @@ Link : [https://goo.gl/ihvrGV](https://goo.gl/ihvrGV) (1 - 3기 발표 자료와
 (2) 궁금한 사항은 contact.snuai@gmail.com 로 메일 주시기 바랍니다.
 
 p.s. 본 스터디는 Naver D2 CAMPUS Partner로 선정되어, Naver의 지원 하에 운영되고 있습니다.
-
