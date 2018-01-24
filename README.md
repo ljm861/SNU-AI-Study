@@ -1,7 +1,7 @@
 ## SNU AI Study Group (SNU AI 스터디 모임)
 
 매주 '딥러닝의 모든 것'에 대해 함께 공부하는 스터디 모임입니다. 
-<br />
+  
 ![3기 단체사진](./Group_photo.jpg)
 
 ---
@@ -42,6 +42,7 @@
 ### 3. 스터디 자료 및 사진
 
 Link : [https://goo.gl/ihvrGV](https://goo.gl/ihvrGV) (1 - 3기 발표 자료와 사진 링크입니다.)
+  
 <br />
   
 ---
