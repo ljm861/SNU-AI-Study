@@ -4,7 +4,6 @@
 <br />
 ![3기 단체사진](./Group_photo.jpg)
 
-<br />
 ---
 <br />
     
@@ -43,8 +42,8 @@
 ### 3. 스터디 자료 및 사진
 
 Link : [https://goo.gl/ihvrGV](https://goo.gl/ihvrGV) (1 - 3기 발표 자료와 사진 링크입니다.)
-<br />  
-
+<br />
+  
 ---
 <br />
   
