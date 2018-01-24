@@ -1,35 +1,37 @@
 ## SNU AI Study Group (SNU AI 스터디 모임)
 
-SNU AI 스터디 모임 소개
+매주 '딥러닝의 모든 것'에 대해 함께 공부하는 스터디 모임입니다. 
 
-### Markdown
+### 스터디 안내
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 일시 : 매주 화요일 7:30 PM
+2. 인원 : 30명 (대학원생 또는 직장인)
+3. 내용 : 연구 내용 발표 또는 연구와 관련된 논문 리뷰
 
-```markdown
-Syntax highlighted code block
+### 스터디 신입 멤버 모집
 
-# Header 1
-## Header 2
-### Header 3
+현재 3기 활동이 종료되었으며, 4기를 모집 중에 있습니다.
 
-- Bulleted
-- List
+(1) 모집기간: 1/22 (월) - 2/5(월)
+(2) 모집인원: 6명
 
-1. Numbered
-2. List
+기존의 3기 인원 24명이 지속적으로 참여하며, 4기에는 추가 인원 6명을 더 모집하여 총 30명으로 활동할 계획입니다.
 
-**Bold** and _Italic_ and `Code` text
+아래의 링크를 통해 신청해주시면 운영진에서 논의 후 개별적으로 연락드리도록 하겠습니다. (2월 10일 이후)
 
-[Link](url) and ![Image](src)
-```
+[신청 링크](https://goo.gl/forms/P0KuDgMs6ZVPPTNA2)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### [스터디 자료 및 사진](https://goo.gl/ihvrGV)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ljm861/SNU-AI-Study/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1 - 3기 발표 자료와 사진 링크입니다.
 
-### Contact
 
-문의사항은 contact.snuai@gmail.com 로 메일 주시기 바랍니다.
+### FAQ
+
+1. 최초 스터디는 서울대학교에서 진행되어서 SNU TF 스터디 모임이 되었는데요. 서울대학교 소속이 아니라도 누구든 참여할 수 있는 스터디 모임입니다. 😄
+
+2. 궁금한 사항은 contact.snuai@gmail.com 로 메일 주시기 바랍니다.
+
+p.s. 본 스터디는 Naver D2 CAMPUS Partner로 선정되어, Naver의 지원 하에 운영되고 있습니다.
+
