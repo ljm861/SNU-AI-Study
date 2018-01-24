@@ -13,12 +13,12 @@
 
 * 인원 : 30명 (대학원생 또는 직장인)
 
-* 내용 : 연구 내용 발표 또는 연구와 관련된 논문 리뷰
+* 내용 : 연구 내용 발표 또는 연구와 관련된 논문 리뷰<br />
   
   
----
+---<br />
   
-'''  
+ 
 ### 2. 스터디 신입 멤버 모집
 
 현재 3기 활동이 종료되었으며, 4기를 모집 중에 있습니다.
@@ -31,18 +31,18 @@
 
 아래의 링크를 통해 신청해주시면 운영진에서 논의 후 개별적으로 연락드리도록 하겠습니다. (2월 10일 이후)
 
-##### [신청 링크](https://goo.gl/forms/P0KuDgMs6ZVPPTNA2)
-''' 
+##### [신청 링크](https://goo.gl/forms/P0KuDgMs6ZVPPTNA2) <br />
+
   
----
+---<br />
   
   
 ### 3. 스터디 자료 및 사진
 
-Link : [https://goo.gl/ihvrGV](https://goo.gl/ihvrGV) (1 - 3기 발표 자료와 사진 링크입니다.)
+Link : [https://goo.gl/ihvrGV](https://goo.gl/ihvrGV) (1 - 3기 발표 자료와 사진 링크입니다.)<br />
   
   
----
+---<br />
   
   
 ### 4. FAQ
@@ -52,6 +52,5 @@ Link : [https://goo.gl/ihvrGV](https://goo.gl/ihvrGV) (1 - 3기 발표 자료와
 
 (2) 궁금한 사항은 contact.snuai@gmail.com 로 메일 주시기 바랍니다.
 
-p.s. 본 스터디는 Naver D2 CAMPUS Partner로 선정되어, Naver의 지원 하에 운영되고 있습니다.
-  
+p.s. 본 스터디는 Naver D2 CAMPUS Partner로 선정되어, Naver의 지원 하에 운영되고 있습니다.<br />  
     
