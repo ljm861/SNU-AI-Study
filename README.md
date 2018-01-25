@@ -1,9 +1,3 @@
-<html>
-    <head>
-        <meta name="google-site-verification" content="gIiQzHBIqsuGgg_zo2skpKTiJMool8a3GDNobn49IiY" />
-    <title> 내 제목 </title>
-    </head> 
-    <body>
 ## SNU AI Study Group (SNU AI 스터디 모임)
 
 매주 '딥러닝의 모든 것'에 대해 함께 공부하는 스터디 모임입니다. 
@@ -64,8 +58,5 @@ Link : [https://goo.gl/ihvrGV](https://goo.gl/ihvrGV) (1 - 3기 발표 자료와
 (2) 궁금한 사항은 contact.snuai@gmail.com 로 메일 주시기 바랍니다.
 
 p.s. 본 스터디는 Naver D2 CAMPUS Partner로 선정되어, Naver의 지원 하에 운영되고 있습니다.<br />  
-
-    </body>
-</html>
 
     
