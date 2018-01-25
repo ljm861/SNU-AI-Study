@@ -1,7 +1,4 @@
-<head>
-<meta name="google-site-verification" content="gIiQzHBIqsuGgg_zo2skpKTiJMool8a3GDNobn49IiY" />
-</head> 
-  
+
 ## SNU AI Study Group (SNU AI 스터디 모임)
 
 매주 '딥러닝의 모든 것'에 대해 함께 공부하는 스터디 모임입니다. 
