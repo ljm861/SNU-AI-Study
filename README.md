@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta name="google-site-verification" content="gIiQzHBIqsuGgg_zo2skpKTiJMool8a3GDNobn49IiY" />
-` </head> 
+  </head> 
 
 ## SNU AI Study Group (SNU AI 스터디 모임)
 
